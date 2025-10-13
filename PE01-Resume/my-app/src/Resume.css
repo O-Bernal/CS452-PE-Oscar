@@ -1,0 +1,27 @@
+/* Remove default browser margins just in case */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+/* The resume “card” */
+.resume {
+  background-color: #bdfb04; /* <- green only here */
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 40px auto;
+  max-width: 800px;
+  padding: 40px;
+  line-height: 1.6;
+  box-sizing: border-box;
+  border-radius: 6px; /* optional, can remove if you want square edges */
+}
+
+/* Headings/sections (unchanged) */
+h1.name { text-align:center; font-size:2.2em; font-weight:bold; margin-bottom:10px; }
+p.contact { text-align:center; margin-bottom:30px; font-size:1em; }
+.section { margin-bottom:30px; }
+h2 { text-align:center; font-size:1.5em; margin-bottom:15px; font-weight:bold; }
+h3 { font-size:1.2em; margin-top:15px; margin-bottom:5px; font-weight:bold; }
+ul { margin-left:20px; }
+a { color:black; text-decoration:underline; }
