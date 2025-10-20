@@ -1,6 +1,5 @@
-# CS452-PE-Oscar
-## Repository for CS452 - Backend Web Development Programming Exercises
-
+# Repository Overview
+## This repository is for the City Univeristy of Seattle and contains programming exercises for Fall 2025 CS452 Backend Web Development.
 ### PE01 - Resume
 - PE01 covered MERN fundamentals and a template resume was developed as an example
 - *Note to self:* This PE exercise did remind me that I had it in my backlog to digitize my resume/portfolio into a webpage. It's a good way to showcase my familiarity and technical skill with MERN architeture.
