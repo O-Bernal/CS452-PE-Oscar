@@ -8,3 +8,7 @@
 ### PE02 - Movie List
 - The goal in PE02 is to create a movie list app in order to strengthen understanding of React components and other foundational concepts.
 - The movie list app lets you filter movies by genre and see movies in the list based on selection. Clicking a movie alerts what was clicked on.
+
+### PE04 - Cities
+- PE04's objective was to create a React app with Navigation based on understanding of React Router
+- The Cities app let's you add City Data to a list, and clicking an entry in the list displays the details entered for that city.
