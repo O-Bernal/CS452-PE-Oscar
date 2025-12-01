@@ -11,3 +11,7 @@
 ### PE04 - Cities
 - PE04's objective was to create a React app with Navigation based on understanding of React Router
 - The Cities app let's you add City Data to a list, and clicking an entry in the list displays the details entered for that city.
+
+### PE05 - Recipe Finder
+- In PE05, a full-stack app was created using react-router, node, express, and mongodb atlas.
+- The app allows users to add and edit recipes in a list.
